@@ -12,3 +12,4 @@ SourceFiles=..\Src\main.c;..\Src\stm32f4xx_it.c;..\Src\stm32f4xx_hal_msp.c;../Dr
 HeaderPath=..\Drivers\STM32F4xx_HAL_Driver\Inc;..\Drivers\STM32F4xx_HAL_Driver\Inc\Legacy;..\Drivers\CMSIS\Device\ST\STM32F4xx\Include;..\Drivers\CMSIS\Include;..\Inc;
 CDefines=__weak:__attribute__((weak));__packed:__attribute__((__packed__));
 
+

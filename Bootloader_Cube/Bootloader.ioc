@@ -137,3 +137,4 @@ UART4.WordLength=WORDLENGTH_9B
 VP_SYS_VS_Systick.Mode=SysTick
 VP_SYS_VS_Systick.Signal=SYS_VS_Systick
 board=Bootloader
+
