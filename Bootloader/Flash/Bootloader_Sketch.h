@@ -122,3 +122,4 @@ void Bootloader_Init(UART_HandleTypeDef *huart);
 void Bootloader_Loop(void);
 #endif /*__BOOTLOADER_SKETCH_H*/
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+
