@@ -143,3 +143,4 @@ bool BOOT_USART_Send(uint8_t *data, uint16_t size);
 bool BOOT_USART_Receive(uint8_t *data, uint16_t size);
 #endif /*__BOOTLOADER_H*/
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+
